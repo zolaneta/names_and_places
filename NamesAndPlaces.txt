@@ -1,0 +1,6 @@
+Bob,Bangkok
+Ellie,London
+Anthony,Beijing
+Michael,Boston
+Fred,Texas
+Alisha,California
